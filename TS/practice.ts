@@ -7,7 +7,7 @@ myVar = "Hello TS orld";
 
 
 if (myHeading !== null) {
-    myHeading.textContent = myHeading.textContent + " !  " + myVar;
+    myHeading.textContent = myHeading.textContent + " ! " + myVar;
 }
 
-console.log(myVar);
+console.log("watchi watchi")
