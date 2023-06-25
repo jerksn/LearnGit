@@ -1,9 +1,0 @@
-{
-	"python.terminal.activateEnvInCurrentTerminal": false,
-    "python.defaultInterpreterPath": "C:\\Users\\gdubr\\Documents\\_Dokumente\\Coding\\.venv_coding\\Scripts",
-    "code-runner.executorMap": { "python": "$pythonPath -u $fullFileName"},
-    "code-runner.runInTerminal": true,
-    "json.schemas": [
-        
-    ]
-}
