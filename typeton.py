@@ -26,3 +26,9 @@ def fib(n):
         return fib(n-1)+fib(n-2)
     
 print(fib(10))
+
+
+var1 = "Hallo"
+var2 = "Clara"
+
+print(f"{var1} {var2}, Ich liebe dich!")
