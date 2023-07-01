@@ -32,3 +32,9 @@ var1 = "Hallo"
 var2 = "Clara"
 
 print(f"{var1} {var2}, Ich liebe dich!")
+
+n = 10
+
+while n < 10:
+    print(n)
+    n -= 1
